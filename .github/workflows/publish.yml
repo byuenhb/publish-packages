@@ -17,3 +17,5 @@ jobs:
           registry: docker.pkg.github.com
           repository: byuenhb/publish-packages/game
           tag_with_sha: true
+
+
